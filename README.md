@@ -2,4 +2,4 @@
 #### Work was completed to prepare an anyalysis for Steve in order to have a more clear conversation and decision path with his parents regarding stocks to consider investin in. Analysis considered volume of trades and pricing. 
 
 ### Results
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96299861/147490151-6fa03aea-285a-4438-8f2c-dda59d3ebb12.png)
+![2017 Stock_Original](https://user-images.githubusercontent.com/96299861/148297516-43898da0-b37b-45a1-939f-b555bb8a3ba1.PNG)
