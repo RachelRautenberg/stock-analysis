@@ -1,4 +1,5 @@
-## Overview of Stock-Analysis
+#STOCK ANALYSIS
+## Overview
 #### Work was completed to prepare an anyalysis for Steve in order to have a more clear conversation and decision path with his parents regarding stocks to consider investin in. Analysis considered volume of trades and pricing. Having completed that work, the code was refactored for ease of use and speed of analysis.
 
 ### Results
@@ -16,4 +17,6 @@
 ##### Runtime for each year was reduced to almost a tenth of a second, total reduction time of over half a second!  The recommendation remains the same, with the lean toward RUN stocks.
 
 ### Summary
-#### One clear advantage to refactoring code is the reduced run time. This would be even more impactful as data size grows.  Another advantage is the time saved in writing the VBA analysis code from scratch.
+#### One clear advantage to refactoring code is the reduced run time. This would be even more impactful as data size grows.  Refactoring should result in overall reduced code block that is both easier to read and edit.  Future editing should then result in lower errors on output or need to debug.
+
+#### Disadvantage to refactoring code, time spent to first review and gather traction in the code to understand what was previously written. 
