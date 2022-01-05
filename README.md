@@ -1,6 +1,6 @@
 STOCK ANALYSIS
 ## Overview
-#### Work was completed to prepare an anyalysis for Steve in order to have a more clear conversation and decision path with his parents regarding stocks to consider investin in. Analysis considered volume of trades and pricing. Having completed that work, the code was refactored for ease of use and speed of analysis.
+#### Work was completed to prepare an analysis for Steve in order to have a more clear conversation and decision path with his parents regarding stocks to consider investin in. Analysis considered volume of trades and pricing. Having completed that work, the code was refactored for ease of use and speed of analysis.
 
 ### Results
 
